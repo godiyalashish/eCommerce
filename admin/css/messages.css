@@ -1,0 +1,52 @@
+#header {
+    text-align: center;
+    font-size: 350%;
+    font-weight: bold;
+}
+
+.header-label {
+
+    background-color: #ddcccc;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.header-label p {
+    color: #727c7f;
+}
+
+.container {
+    text-align: center;
+}
+
+body {
+    background-color: #deeef2;
+}
+
+a {
+    text-decoration: none;
+}
+
+.name {
+
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+
+
+.number {
+    color: white;
+}
+
+.list-group-item {
+    background-color: #DDCCCC;
+}
+
+.list-group-item:hover {
+    background-color: #afa5a5;
+}

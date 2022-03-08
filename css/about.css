@@ -1,0 +1,43 @@
+body{
+
+    background-color: #d9d7ea;
+}
+
+#banner{
+
+    background: url(/lifestyle-store/pages/views/images/about.jpg) no-repeat center;
+    background-size: cover;
+    height:100%;
+    margin:auto 0;
+    color:white;
+    font-size:30px;
+   padding:10px 10px;
+
+}
+#banner h2{
+
+    font-size: 40px;
+}
+
+#content-container{
+
+    text-align: center;
+    justify-content: center;
+   margin-bottom: 100px;
+    padding-top:60px;
+}
+
+.content{
+
+    border:1px solid grey;
+    min-height:280px;
+    padding-top:10px;
+    border-radius: 25px;
+}
+
+.content h3{
+
+    color:white!important;
+    border-bottom: 1px solid black;
+    padding-bottom:30px;
+}

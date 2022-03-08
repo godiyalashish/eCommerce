@@ -1,0 +1,98 @@
+html{
+
+	height:100vh;
+	font-family: roboto-mono,Times New Roman, Times, serif;
+}
+
+#website-icon{
+
+	padding-right:3px;
+}
+
+.nav-icon{
+
+	padding:0px 4px 0px 6px;
+}
+
+.footer{
+	color:#BFCDCF;
+	background-color:#343A40;
+	padding: 20px;
+	width:100%;
+
+}
+
+#banner-image{
+
+	background:url(/lifestyle-store/pages/views/images/background.jpg) no-repeat center;
+	background-size: cover;
+	padding-top: 75px;    
+	padding-bottom: 50px;    
+	text-align: center;    
+	color: #f8f8f8;  
+
+}
+
+#banner-content{
+    position: relative;    
+    padding-top: 6%;     
+    padding-bottom: 6%;     
+    margin-top: 12%;
+    margin-bottom:12%;         
+    background-color: rgba(0, 0, 0, 0.7);    
+    max-width: 660px;
+}
+.link{
+
+	text-decoration:none;
+	color:#c4b8b8;
+}
+.link:hover{
+
+	color:#eddcdc;
+}
+
+.card-img-top{
+	max-height: 190px;
+	min-height: 190px;
+}
+
+.caption{
+
+	text-align: center;
+}
+
+.card-text{
+	font-size:20px;
+}
+
+.heading{
+
+	text-align: center;
+	margin-bottom:40px;
+	font-size:50px;
+	font-weight:bold;
+}
+#content{
+	background-color: #c9b7b7;
+	padding-bottom:40px;
+}
+#products-container{
+	background-color: #cbedb4;
+	padding:20px 0px 50px 0px;
+}
+
+.product:hover{
+
+	transform: scale(1.07);
+	transition: 0.4s ease-out;
+	
+}
+a{
+	text-decoration: none!important;
+
+}
+.caption p,h3{
+
+	color:black!important;
+}

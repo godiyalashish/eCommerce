@@ -1,0 +1,36 @@
+td{
+
+	font-weight: bold;
+	font-size:20px;
+}
+
+
+#carttable{
+
+	min-height: 500px;
+	padding-top:50px;
+}
+
+.icon{
+
+	margin-right: 4px;
+}
+
+#alert{
+
+	text-align:center;
+	font-size:30px;
+	height:53vh;
+	margin-top: 200px
+}
+
+#alert a{
+
+	text-decoration:none;
+	color:green;
+}
+
+.btn{
+
+	margin-bottom:5px!important;
+}

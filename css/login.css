@@ -1,0 +1,86 @@
+body {
+
+    background: #426587;
+    /* fallback for old browsers */
+    /*    background: -webkit-linear-gradient(to left, #468296, #076585, transparent);*/
+    /* Chrome 10-25, Safari 5.1-6 */
+    /*    background: linear-gradient(to right, #468296, #076585, transparent);
+*/
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    /*    background: linear-gradient(to center, #468296, #076585, transparent);
+*/
+}
+
+
+form {
+
+    margin-top: 80px;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 20px;
+    padding-bottom: 40px;
+
+}
+
+h2 {
+    margin-bottom: 40px;
+    text-align: center;
+    color: white;
+    cursor: default;
+
+}
+
+#submitbutton {
+
+    margin-top: 20px;
+    background-color: rgb(41, 162, 232);
+    font-size: 30px;
+    color: white;
+    line-height: 50px;
+    border-radius: 10px;
+
+
+}
+
+.input-group-prepend span {
+
+    width: 40px;
+    color: black;
+    border: 0 !important;
+}
+
+p {
+
+    text-align: center;
+}
+
+#icon {
+
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    padding-top: 10px;
+    position: relative;
+    bottom: 50px;
+    background-color: rgba(196, 190, 190, 0.8);
+    color: white;
+}
+
+#form-container {
+
+    position: relative;
+    bottom: 30px;
+}
+
+#signuplink {
+
+    color: rgb(175, 180, 234);
+    border-top: 2px white solid;
+    margin-top: 30px;
+    padding-top: 20px;
+    margin-bottom: 40px;
+}
+
+#signuplink a {
+    text-decoration: none;
+    color: white;
+}

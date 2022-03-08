@@ -1,0 +1,67 @@
+body{
+
+	background-color: #e8d5d5;
+}
+
+
+#livesupport-image{
+
+	height:150px;
+	width:auto;
+}
+
+ul {
+  list-style-type: none;
+}
+#main_container{
+
+font-size:20px;
+
+}
+
+#message{
+
+	text-align: center;
+	margin-top: 190px;
+	height: 55vh;
+	font-size: 26px;
+}
+
+#message a{
+
+	text-decoration: none;
+	color: green;
+	font-weight: bolder;
+}
+
+#message a:hover{
+
+	color:red;
+	text-decoration-line: underline;
+}
+
+.icon{
+
+	margin-right:5px;
+}
+#live_support{
+
+	margin-top:30px;
+	margin-bottom:30px;
+	border-bottom:1px grey solid;
+}
+h2{
+	margin-bottom:20px;
+	color:#898080;
+}
+
+h1{
+
+	margin-bottom:30px;
+	color:#898080;
+}
+
+#main_container{
+
+	margin-bottom:50px;
+}

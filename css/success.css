@@ -1,0 +1,25 @@
+#message{
+
+	text-align: center;
+	margin-top: 190px;
+	height: 55vh;
+	font-size: 26px;
+}
+
+#message a{
+
+	text-decoration: none;
+	color: green;
+	font-weight: bolder;
+}
+
+#message a:hover{
+
+	color:red;
+	text-decoration-line: underline;
+}
+
+.icon{
+
+	margin-right:5px;
+}
